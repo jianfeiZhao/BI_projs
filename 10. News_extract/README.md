@@ -1,1 +1,1 @@
-Tools: requests, beautifulSoup, wordcloud, textrank
+Tools: requests, beautifulSoup, jieba, wordcloud, textrank
