@@ -1,1 +1,1 @@
-## Some projects related to Machine Learning, Deep Learning, Data Analysis and Recommender Systems.
+## Some small projects related to Machine Learning, Deep Learning, Data Analysis and Recommender Systems.
